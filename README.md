@@ -20,12 +20,9 @@ Intermediate-Scale Quantum) процессоры, в частности прои
 было показано, что основной источник ошибок связан со свойствами
 исследуемой цепочки Изинга, а не квантового компьютера.
 
-Библиотека для работы с тензорными поездами, python. https://github.com/
-oseledets/ttpy.
+Библиотека для работы с тензорными поездами, python. https://github.com/oseledets/ttpy.
 
-Облачный доступ к квантовому компьютеру d-wave. https://
-cloud.dwavesys.com/leap/.
+Облачный доступ к квантовому компьютеру d-wave. https://cloud.dwavesys.com/leap/.
 
-Подробнее о квантовом отжиге https://docs.dwavesys.com/docs/latest/c_gs_2.html#
-id2.
+Подробнее о квантовом отжиге https://docs.dwavesys.com/docs/latest/c_gs_2.html#id2.
 
